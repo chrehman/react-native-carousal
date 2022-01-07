@@ -1,5 +1,5 @@
 # react-native-carousal
 
-![Alt Text](./carousal.gif)
+![Alt Text](https://github.com/chrehman/react-native-carousal/edit/master/carousal.gif)
 
 
