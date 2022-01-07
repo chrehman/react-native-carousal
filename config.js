@@ -1,1 +1,1 @@
-export const API_KEY = '166da265c1ef3c486182c1f7a73d0b8b';
+export const API_KEY = 'Your Tmdb Api Key';
